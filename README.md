@@ -1,0 +1,4 @@
+FirstMavenProject
+=================
+
+Sample Maven Application
